@@ -1,0 +1,32 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Ambiente local
+.env
+.env.*
+
+# Compilação e builds
+dist/
+build/
+
+# Swagger UI (caso baixe pacotes locais)
+swagger-ui/
+swagger-ui-dist/
+
+# Arquivos ZIP ou exportações locais
+*.zip
